@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,[COLOR yellow]***HACK YOU VERY MUCH***[/COLOR]
+http://0.0.0.0:1234
+#EXTM3U
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LATINOS”,[COLOR green](( LATINOS ESE ))[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Telemundo 39
+http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
+
+#EXTINF:-1, Telemundo 39 (Link 2)
+http://stream.ssh101.com:1935/live/anahix7/media-uaj82wv56_27594.ts
+
+#EXTINF:-1, Telemundo 39 (Link 3)
+http://sjc-ucdn02-comcast-tcdn.ustream.tv/dal09/dal09-uhs-live02/live/22690280/1481414230915/plain/uhs/1/chunk_1481469421_5945c9c23b.flv
+
+#EXTINF:-1, Telemundo 39 (Link 4)
+http://stream.ssh101.com:1935/live/anahix11/media-urldcxlcs_18692.ts
+
+
+#EXTINF:-1, Univision
+http://stream.ssh101.com:1935/live/anahix1/playlist.m3u8
+
+#EXTINF:-1, Univision (Link 2)
+http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
+
+#EXTINF:-1, Univision (Link 3)
+http://sjc-ucdn11-comcast-tcdn.ustream.tv/dal09/dal09-uhs-live02/live/22781507/1481516029725/plain/uhs/1/chunk_1481550947_aac9654e44.flv
+
+#EXTINF:-1, Univision (Link 4)
+http://stream.ssh101.com:1935/live/anahix1/media-ubvcbw28k_17481.ts
