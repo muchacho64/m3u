@@ -29,3 +29,6 @@ http://sjc-ucdn11-comcast-tcdn.ustream.tv/dal09/dal09-uhs-live02/live/22781507/1
 
 #EXTINF:-1, Univision (Link 4)
 http://stream.ssh101.com:1935/live/anahix1/media-ubvcbw28k_17481.ts
+
+#EXTINF:-1,ICI Radio-Canada – Montréal
+ http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
