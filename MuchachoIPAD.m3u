@@ -40,7 +40,8 @@ http://latinchannel.tv:8000/live/123/123/1455.ts
 http://latinchannel.tv:8000/live/123/123/359.ts
 
 #EXTINF:-1,TP:TELEMUNDO
-http://latinchannel.tv:8000/live/123/123/111.ts
+http://176.31.231.205:8000/live/anne/anne/415.ts
 
-
+#EXTINF:-1,TP:TELEMUNDO
+http://176.31.231.205:8000/live/anne/anne/416.ts
 
