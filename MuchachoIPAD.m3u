@@ -33,15 +33,14 @@ http://stream.ssh101.com:1935/live/anahix1/media-ubvcbw28k_17481.ts
 #EXTINF:-1,ICI Radio-Canada – Montréal
  http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
 
-#EXTINF:0,TELEMUNDO 39
-https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,Estrella TV
-https://video05-lax.streamup.com/app/vic_manz02s-stream/playlist.m3u8
-#EXTINF:0,Azteca US
-https://video05-lax.streamup.com/app/vic_manzs-stream/playlist.m3u8
-#EXTINF:0,UNIVISION 23
-https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
-#EXTINF:0,UNIVISION
-https://video05-lax.streamup.com/app/univision2chivas_69s-stream/playlist.m3u8
-#EXTINF:0,Telefe
-https://video05-lax.streamup.com/app/beto_3s-channel/playlist.m3u8
+#EXTINF:-1,ST: Univision HD
+http://latinchannel.tv:8000/live/123/123/1455.ts
+
+#EXTINF:-1,ST:Telemundo
+http://latinchannel.tv:8000/live/123/123/359.ts
+
+#EXTINF:-1,TP:TELEMUNDO
+http://latinchannel.tv:8000/live/123/123/111.ts
+
+
+
