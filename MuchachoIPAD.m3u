@@ -5,43 +5,37 @@ http://0.0.0.0:1234
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“LATINOS”,[COLOR green](( LATINOS ESE ))[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, Telemundo 39
-http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
-
-#EXTINF:-1, Telemundo 39 (Link 2)
-http://stream.ssh101.com:1935/live/anahix7/media-uaj82wv56_27594.ts
-
-#EXTINF:-1, Telemundo 39 (Link 3)
-http://sjc-ucdn02-comcast-tcdn.ustream.tv/dal09/dal09-uhs-live02/live/22690280/1481414230915/plain/uhs/1/chunk_1481469421_5945c9c23b.flv
-
-#EXTINF:-1, Telemundo 39 (Link 4)
-http://stream.ssh101.com:1935/live/anahix11/media-urldcxlcs_18692.ts
-
-
-#EXTINF:-1, Univision
-http://stream.ssh101.com:1935/live/anahix1/playlist.m3u8
-
-#EXTINF:-1, Univision (Link 2)
-http://stream.ssh101.com:1935/live/anahix1/chunklist.m3u8
-
-#EXTINF:-1, Univision (Link 3)
-http://sjc-ucdn11-comcast-tcdn.ustream.tv/dal09/dal09-uhs-live02/live/22781507/1481516029725/plain/uhs/1/chunk_1481550947_aac9654e44.flv
-
-#EXTINF:-1, Univision (Link 4)
-http://stream.ssh101.com:1935/live/anahix1/media-ubvcbw28k_17481.ts
-
-#EXTINF:-1,ICI Radio-Canada – Montréal
- http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
-
-#EXTINF:-1,ST: Univision HD
-http://latinchannel.tv:8000/live/123/123/1455.ts
-
-#EXTINF:-1,ST:Telemundo
-http://latinchannel.tv:8000/live/123/123/359.ts
-
-#EXTINF:-1,TP:TELEMUNDO
-http://176.31.231.205:8000/live/anne/anne/415.ts
-
-#EXTINF:-1,TP:TELEMUNDO
-http://176.31.231.205:8000/live/anne/anne/416.ts
-
+#EXTINF:-1,UNIVISION/ TDN DEPORTES
+http://50.7.69.170:443/live/vhx96yckmpaxpq5/index.m3u8
+#EXTINF:-1,TYC SPORTS
+rtmp://podi.hopper.pw:443/live/live_afatv1
+#EXTINF:-1,TELEFE
+rtmp://podi.hopper.pw:443/live/live_beto_3
+#EXTINF:-1,CHESPIRITO
+rtmp://podi.hopper.pw:443/live/live_chespirito_mania
+#EXTINF:-1,MEGA KIDS
+rtmp://podi.hopper.pw:443/live/live_mega_kids
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+rtmp://podi.hopper.pw:443/live/live_animetoontv
+#EXTINF:-1,MEGA SIMPSON
+rtmp://podi.hopper.pw:443/live/live_mega_simpson
+#EXTINF:-1,TELEMUNDO 29
+rtmp://podi.hopper.pw:443/live/live_telemundo29
+#EXTINF:-1,TELEMUNDO 34
+rtmp://podi.hopper.pw:443/live/live_telemundo34
+#EXTINF:-1,TELEMUNDO 35
+rtmp://podi.hopper.pw:443/live/live_telemundo35
+#EXTINF:-1,UNIVISION
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
+#EXTINF:-1,UNIVISION 41 NY
+rtmp://podi.hopper.pw:443/live/live_univision41ny
+#EXTINF:-1,UNIVERSAL MOVIES
+rtmp://podi.hopper.pw:443/live/live_universal_movies
+#EXTINF:-1,TyCsports
+rtmp://podi.hopper.pw:443/live/live_afatv1
+#EXTINF:-1,UNIMAS
+rtmp://podi.hopper.pw:443/live/live_unimas12
+#EXTINF:-1,MEGA ANIME HD
+rtmp://podi.hopper.pw:443/live/live_mega_animeshd
+#EXTINF:-1,AMERICA TV
+rtmp://podi.hopper.pw:443/live/live_elyamato
