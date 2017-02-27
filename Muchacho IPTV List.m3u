@@ -11,7 +11,7 @@ http://37.187.251.142:8000/live/emma/emma/2243.ts
 #EXTINF:-1, Telemundo 39
 http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
 
-#EXTINF:-1, ABC
+#EXTINF:-1, AB
 http://37.187.251.142:8000/live/emma/emma/2243.ts
 
 #EXTINF:-1, Telemundo 39 (Link 2)
