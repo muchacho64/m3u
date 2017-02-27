@@ -2,8 +2,11 @@
 #EXTINF:-1,[COLOR yellow]***HACK YOU VERY MUCH***[/COLOR]
 http://0.0.0.0:1234
 #EXTM3U
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìLATINOSî,[COLOR green](( LATINOS ESE ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúLATINOS‚Äù,[COLOR green](( LATINOS ESE ))[/COLOR]
 http://0.0.0.0:1234
+
+#EXTINF:-1, ABC
+http://37.187.251.142:8000/live/emma/emma/2243.ts
 
 #EXTINF:-1, Telemundo 39
 http://stream.ssh101.com:1935/live/anahix7/chunklist.m3u8
@@ -44,12 +47,12 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
 #EXTINF:-1,Tva
 rtmp://cp39414.live.edgefcs.net/live//event1@9756
 #EXTINF:-1, TVA Sport stream 2 (French)
-rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/Ö/FlashMediaPlaybÖ/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
+rtmp://cp39414.live.edgefcs.net:1935/live playpath=event1@9756 swfUrl=http://fpdownload.adobe.com/‚Ä¶/FlashMediaPlayb‚Ä¶/[[DYNAMIC]]/1 live=1 pageUrl=http://matelevision.blogspot.ca/2013/08/ma-tv.html
 #EXTINF:-1, SPORTSNET 360HD CANADA HD
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
 
-#EXTINF:-1,CPAC FranÁais
+#EXTINF:-1,CPAC Fran√ßais
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
 
 
@@ -80,21 +83,21 @@ https://goo.gl/photos/aJucuCGcQep1EMLa6
 
  #EXTINF:-1,Aljazeera
  http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8?dev=website
- #EXTINF:-1,ICI Radio-Canada ñ QuÈbec ñ CBVT-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Qu√©bec ‚Äì CBVT-DT
  http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ Ottawa-Gatineau ñ CBOFT-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Ottawa-Gatineau ‚Äì CBOFT-DT
  http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ Trois-RiviËres ñ CKTM-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Trois-Rivi√®res ‚Äì CKTM-DT
  http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ Rimouski ñ CJBR-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Rimouski ‚Äì CJBR-DT
  http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ Saguenay (l‚ l‚) ñ CKTV-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Saguenay (l√¢ l√¢) ‚Äì CKTV-DT
  http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ Sherbrooke ñ CKSH-DT
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Sherbrooke ‚Äì CKSH-DT
  http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
- #EXTINF:-1,ICI Radio-Canada ñ MontrÈal
+ #EXTINF:-1,ICI Radio-Canada ‚Äì Montr√©al
  http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
- #EXTINF:-1,TVA MontrÈal
+ #EXTINF:-1,TVA Montr√©al
  http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
  #EXTINF:-1,[COLOR green]ONLY DEMO: sky sport 24 [/COLOR]
 http://www.t12v.com:8000/live/haithem/haithem/278.ts
@@ -160,21 +163,21 @@ http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
 #EXTINF:0,HSN 2
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
-#EXTINF:-1,CPAC FranÁais
+#EXTINF:-1,CPAC Fran√ßais
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
 #EXTINF:-1, TVA
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada QuÈbec - CBVT-DT
+#EXTINF:-1,ICI Radio-Canada Qu√©bec - CBVT-DT
 http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,CPAC Francais
 http://bcliveuniv-lh.akamaihd.net/i/cpac1fre2014_01@119331/master.m3u8
-#EXTINF:-1, AssemblÈe Nationale
+#EXTINF:-1, Assembl√©e Nationale
 http://diffusionm3.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
-#EXTINF:-1,AssemblÈe nationale du QuÈbec
+#EXTINF:-1,Assembl√©e nationale du Qu√©bec
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 #EXTINF:-1,ICI Radio-Canada Ottawa-Gatineau - CBOFT-DT
 http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada Trois-RiviËres - CKTM-DT
+#EXTINF:-1,ICI Radio-Canada Trois-Rivi√®res - CKTM-DT
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ICI Radio-Canada Rimouski - CJBR-DT
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
@@ -182,21 +185,21 @@ http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&re
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1,ICI Radio-Canada Sherbrooke - CKSH-DT
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ QuÈbec - CBVT-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Qu√©bec - CBVT-DT
 http://hdflash_1-lh.akamaihd.net/i/cancbvt_1@93274/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ Ottawa-Gatineau - CBOFT-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Ottawa-Gatineau - CBOFT-DT
 http://hdflash_1-lh.akamaihd.net/i/cancboft_1@192896/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ Trois-RiviËres - CKTM-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Trois-Rivi√®res - CKTM-DT
 http://hdflash_1-lh.akamaihd.net/i/cancktm_1@93276/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ Rimouski - CJBR-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Rimouski - CJBR-DT
 http://hdflash_1-lh.akamaihd.net/i/cancjbr_1@95882/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ Saguenay - CKTV-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Saguenay - CKTV-DT
 http://hdflash_1-lh.akamaihd.net/i/cancktv_1@93272/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ Sherbrooke - CKSH-DT
+#EXTINF:-1,ICI Radio-Canada T√©l√© Sherbrooke - CKSH-DT
 http://hdflash_1-lh.akamaihd.net/i/cancksh_1@93278/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,ICI Radio-Canada TÈlÈ MontrÈal
+#EXTINF:-1,ICI Radio-Canada T√©l√© Montr√©al
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70 timeout=10
-#EXTINF:-1,ICI Radio-Canada MontrÈal
+#EXTINF:-1,ICI Radio-Canada Montr√©al
 http://hdflash_1-lh.akamaihd.net/i/cancbft_1@95875/master.m3u8|X-Forwarded-For=207.179.146.70
 #EXTINF:-1,TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
@@ -210,7 +213,7 @@ http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 rtmp://str81.creacast.com:80/weo/high
 #EXTINF:-1,CANADA:SENATE LIVE
 http://bit.do/3C7k
-#EXTINF:-1,TVA MontrÈal
+#EXTINF:-1,TVA Montr√©al
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 #EXTINF:0,EURONEWS(EN)
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
@@ -299,7 +302,7 @@ http://50.7.168.162:8081/live2/live2/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìAFRICAî,[COLOR pink](( AFRICA ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúAFRICA‚Äù,[COLOR pink](( AFRICA ))[/COLOR]
 http://0.0.0.0:1234
 
 #EXTM3U
@@ -338,7 +341,7 @@ http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìSPORTSî,[COLOR pink](( SPORTS ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúSPORTS‚Äù,[COLOR pink](( SPORTS ))[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -346,7 +349,7 @@ http://0.0.0.0:1234
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1,BEIN sports
 https://video02-atl.streamup.com/app/athleticss-stream/chunklist.m3u8
-#EXTINF:-1,RPC ACTION Panam·
+#EXTINF:-1,RPC ACTION Panam√°
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:0,Updated:8/2-PAC 12 Arizona
 http://xrxs.net/video/live-p12ariz-4728.m3u8
@@ -462,7 +465,7 @@ http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/Sporttime
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìMUSICî,[COLOR pink]((MUSIC ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúMUSIC‚Äù,[COLOR pink]((MUSIC ))[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,America Latina Music
@@ -554,11 +557,11 @@ rtmp://186.155.200.118:1935/live/ColombiasuMusica
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìReligion2î,[COLOR pink]((Religion2))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúReligion2‚Äù,[COLOR pink]((Religion2))[/COLOR]
 http://0.0.0.0:1234
 
 
-#EXTINF:-1,ARG:Canal 9 Paran· Religion
+#EXTINF:-1,ARG:Canal 9 Paran√° Religion
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1,Bolivia:Redadvenir  Religion
 rtmp://streamer1.streamhost.org/salive/GMIalfam
@@ -578,7 +581,7 @@ http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblot
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìLATINOSî,[COLOR pink](( LATINOS ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúLATINOS‚Äù,[COLOR pink](( LATINOS ))[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1,Option#1 HD Telemundo/CanaldelasEstrellas Mex.
@@ -591,7 +594,7 @@ http://video04-lax.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u
 http://edge-41-us.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8
 #EXTINF:-1,HD AZTECA NOTICIAS Mexico
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,HD ANTENA 3 EspaÒa
+#EXTINF:-1,HD ANTENA 3 Espa√±a
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
 #EXTINF:-1,HD TVN Chile
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
@@ -621,7 +624,7 @@ http://www.djing.com/tv/dancefloor.m3u8?
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live?
 #EXTINF:-1,HD 720 TVE 24h Espa
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,HD Once TV Internacional MÈxico
+#EXTINF:-1,HD Once TV Internacional M√©xico
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,HD 720 Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
@@ -629,13 +632,13 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://www.djing.com/tv/underground.m3u8?
 #EXTINF:-1,50% TVU CONCEPCION CHILE
 rtsp://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2
-#EXTINF:-1,HD 720 ChileñEL PINGUINO TV CANAL 4 PUNTA ARENAS
+#EXTINF:-1,HD 720 Chile‚ÄìEL PINGUINO TV CANAL 4 PUNTA ARENAS
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,HD 720 Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8?
 #EXTINF:-1,HD 720 TeleCaribe Colombia
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,60% 720 Azteca 7 Monterrey MÈxico
+#EXTINF:-1,60% 720 Azteca 7 Monterrey M√©xico
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,HD 720 AZTECA NOTICIAS MEX
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
@@ -713,13 +716,13 @@ http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,VEN:Canal i Venezuela
 rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Telemar Campeche MÈxico
+#EXTINF:-1,Telemar Campeche M√©xico
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
-#EXTINF:-1,Capital 21 MÈxico
+#EXTINF:-1,Capital 21 M√©xico
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1,CR:SMO TV Costa Rica
 rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1,Telemetro Panam·
+#EXTINF:-1,Telemetro Panam√°
 http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
 #EXTINF:-1,COL:Canal Capital
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
@@ -753,15 +756,15 @@ rtmp://streamspub.manasat.com/live/bastacrer
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:-1,Brasil:TV MANA-1
 rtmp://195.22.19.179/manasat/manasat2
-#EXTINF:-1,Brasil:Rede FamÌlia
+#EXTINF:-1,Brasil:Rede Fam√≠lia
 rtsp://srv3.ntelecom.com.br/redefamilia
 #EXTINF:-1,Brasil:Brasil Central
 http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
-#EXTINF:-1,Brasil:MAN¡ 
+#EXTINF:-1,Brasil:MAN√Å 
 http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
-#EXTINF:-1,Brasil:MAN¡ Cordoba 
+#EXTINF:-1,Brasil:MAN√Å Cordoba 
 http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
-#EXTINF:-1,Brasil:MAN¡ SAT 
+#EXTINF:-1,Brasil:MAN√Å SAT 
 http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
 #EXTINF:-1,ARG:CANAL 13 ARGENITNA rtsp
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
@@ -779,7 +782,7 @@ rtmp://streamer1.streamhost.org/salive/GMIalfam
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
 #EXTINF:-1,ARG:Canal 79 San Juan
 rtmp://painel.serveron.com.br:1935/8162/8162
-#EXTINF:-1,ARG:Canal 9 Paran· 
+#EXTINF:-1,ARG:Canal 9 Paran√° 
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1,ARG:Canal 9 Salta 
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
@@ -827,7 +830,7 @@ http://162.212.176.83:8080/mayatv.m3u8
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,-Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,Radio y TelevisiÛn Mexiquense
+#EXTINF:-1,Radio y Televisi√≥n Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TV Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
@@ -839,7 +842,7 @@ http://74.63.97.188:1935/c7/videoc7/chunklist_w1292887050_b125000.m3u8?
 http://74.63.97.188:1935/gnode05/videognode05/playlist_b125000.m3u8?
 #EXTINF:-1,TV Galicia
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8?
-#EXTINF:-1,Extremadura TelevisiÛn
+#EXTINF:-1,Extremadura Televisi√≥n
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8?
 #EXTINF:-1,Andalucia TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8?
@@ -917,7 +920,7 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=179256159
 http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Tv UNO
 http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,TelevisiÛn Nacional de Ecuador
+#EXTINF:-1,Televisi√≥n Nacional de Ecuador
 http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8#
 #EXTINF:-1,UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
@@ -941,27 +944,27 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,HD Musica SI  (music)
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1,Peliculas en EspaÒol
+#EXTINF:-1,Peliculas en Espa√±ol
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,CampusTV
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8?
-#EXTINF:-1,El Ping¸ino TV
+#EXTINF:-1,El Ping√ºino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
 #EXTINF:-1,Enlace Juvenil (Music)
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8?
 #EXTINF:-1,Teledunamis (Religion)
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
-#EXTINF:-1,Radio y TelevisiÛn de QuerÈtaro
+#EXTINF:-1,Radio y Televisi√≥n de Quer√©taro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/playlist.m3u8?
-#EXTINF:-1,Canal 10 EspaÒa
+#EXTINF:-1,Canal 10 Espa√±a
 rtmp://87.106.220.67/live/myStream_2
 #EXTINF:-1,Canal 53 UANL TV
 mms://streaming.uanl.mx/canal53bandaancha
 #EXTINF:-1,Canal Capital
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8#
-#EXTINF:-1,CB TelevisiÛn Michoac·n
+#EXTINF:-1,CB Televisi√≥n Michoac√°n
 http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
-#EXTINF:-1,TelevisiÛn La Luz
+#EXTINF:-1,Televisi√≥n La Luz
 http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
 #EXTINF:-1,HD Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
@@ -975,7 +978,7 @@ http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8?
 #EXTINF:-1,CBA 24N
 http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1,SER TV Panam·
+#EXTINF:-1,SER TV Panam√°
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1,RTG
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/chunklist_w1512230238.m3u8?
@@ -993,7 +996,7 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8?
 #EXTINF:-1,Canal TRO
 http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/canalesdelpueblotv.m3u8?iks61.channel26
-#EXTINF:-1,Quince TV Zacatecas MÈxico
+#EXTINF:-1,Quince TV Zacatecas M√©xico
 http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8#
 #EXTINF:-1,CB24 Noticias Costarica
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
@@ -1141,7 +1144,7 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìTEST TEST TESTî,[COLOR pink]((TEST TEST TEST))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúTEST TEST TEST‚Äù,[COLOR pink]((TEST TEST TEST))[/COLOR]
 http://0.0.0.0:1234
 
 #EXTM3U
@@ -1149,7 +1152,7 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-1,Mexico - Radio y TelevisiÛn Mexiquense
+#EXTINF:-1,Mexico - Radio y Televisi√≥n Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 
 #EXTINF:-1,Vevo3
@@ -1178,7 +1181,7 @@ http://plus_1-f.akamaihd.net/media/1039301517001/201308/27/1039301517001_263230,
 #EXTINF:-1,Spain:Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
 
-#EXTINF:-1,BRASIL:TV Aberta-TV Santa CecÌlia HD - Santos
+#EXTINF:-1,BRASIL:TV Aberta-TV Santa Cec√≠lia HD - Santos
 rtmp://174.37.200.35/2063/2063
 
 #EXTINF:-1,BRASIL:Extremadura TV
@@ -1190,13 +1193,13 @@ rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1,BRASIL:MANA SAT
 rtmp://195.22.19.179/manasat/manasat2
 
-#EXTINF:-1,BRASIL:TV MAN¡ FRANCE
+#EXTINF:-1,BRASIL:TV MAN√Å FRANCE
 http://195.22.19.183:1935/tvfr/tvfr3/hasbahca.m3u8
 
 #EXTINF:-1,BRASIL:Rede Minas
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 
-#EXTINF:-1,BRASIL:TV MAN¡ Cordoba
+#EXTINF:-1,BRASIL:TV MAN√Å Cordoba
 http://195.22.19.189:1935/tvar/tvmanaar2/hasbahca.m3u8
 
 #EXTINF:-1,BRASIL:TV Aberta-TV Brasil Central (Cultura)
@@ -1209,20 +1212,20 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
 #EXTINF:-1,BRASIL:REDE FAMILIA mms
 mms://srv3.ntelecom.com.br/redefamilia
 
-#EXTINF:-1,BRASIL:TV MAN¡ SPAIN
+#EXTINF:-1,BRASIL:TV MAN√Å SPAIN
 http://195.22.19.183:1935/tvesp/tvesp3/hasbahca.m3u8
 
-#EXTINF:-1,BRASIL:TV MAN¡ PORTUGAL
+#EXTINF:-1,BRASIL:TV MAN√Å PORTUGAL
 http://195.22.19.179:1935/manasat/manasat2/hasbahca.m3u8
 
 
 #EXTINF:-1,BRASIL:Tve 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1,BRASIL:TV MAN¡ SAT BRASIL
+#EXTINF:-1,BRASIL:TV MAN√Å SAT BRASIL
 http://195.22.19.179:1935/manasat/manasat3/hasbahca.m3u8
 
-#EXTINF:-1,BRASIL:TV Man·-Maputo
+#EXTINF:-1,BRASIL:TV Man√°-Maputo
 http://195.22.19.189:1935/tvmz/tvmz3/hasbahca.m3u8
 
 
@@ -1276,7 +1279,7 @@ rtmp://$OPT:rtmp-raw=rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=
 #EXTINF:-1,Spain:VIT Channel 4
 rtmp://87.106.220.67/live/myStream_2
 
-#EXTINF:-1,BRASIL:TV MAN¡ ENG
+#EXTINF:-1,BRASIL:TV MAN√Å ENG
 http://195.22.19.183:1935/tven/tven3/hasbahca.m3u8
 
 
@@ -1334,7 +1337,7 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
 
 
-#EXTINF:-1,[COLOR yellow]ªª-- Hindi --´´[/COLOR]
+#EXTINF:-1,[COLOR yellow]¬ª¬ª-- Hindi --¬´¬´[/COLOR]
 http://0.0.0.0:1234
  
 #EXTINF:-1,B4U Music
@@ -1367,11 +1370,11 @@ http://bglive-a.bitgravity.com/ndtv/indlo/live/native
  
 
 
-#EXTINF:0, Samaya 24◊7
+#EXTINF:0, Samaya 24√ó7
 http://edge.purplestream.com/live/samtv/amlst:samayatv/playlist.m3u8
  
 
-#EXTINF:-1,[COLOR orange]ªª----------------------------- Pakistan -----------------------------´´[/COLOR]
+#EXTINF:-1,[COLOR orange]¬ª¬ª----------------------------- Pakistan -----------------------------¬´¬´[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -1512,7 +1515,7 @@ http://cdn.ebound.tv:1935/tv/style360/playlist.m3u8
 
 
 
-#EXTINF:-1, [COLOR yellow]===ChaÓnes Marocaines===[/COLOR]
+#EXTINF:-1, [COLOR yellow]===Cha√Ænes Marocaines===[/COLOR]
 http://
 
 
@@ -1549,7 +1552,7 @@ rtmp://167.114.101.234:1935/live?idu=ayechy_70521647130/medi_1_sat swfVfy=true l
 #EXTINF:-1,nessma
 rtmp://162.212.176.107:1935/nessma/globaltv-nessma.stream?LiveSport.HD
 
-#EXTINF:-1, [COLOR yellow]=====ChaÓnes Arabes=====[/COLOR]
+#EXTINF:-1, [COLOR yellow]=====Cha√Ænes Arabes=====[/COLOR]
 http://
 
 #EXTINF:-1,Abu Dhabi
@@ -1768,7 +1771,7 @@ rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.strea
 
 
 
-#EXTINF:-1, [COLOR yellow]====ChaÓnes Francaises====[/COLOR]
+#EXTINF:-1, [COLOR yellow]====Cha√Ænes Francaises====[/COLOR]
 http://
 
 
@@ -1780,13 +1783,13 @@ http://
 
 
 
-#EXTINF:-1,SeÒal Provincial Argentina
+#EXTINF:-1,Se√±al Provincial Argentina
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8#
-#EXTINF:-1,CORtv Oaxaca MÈxico
+#EXTINF:-1,CORtv Oaxaca M√©xico
 http://iphone-streaming.ustream.tv/ustreamVideo/20366971/streams/live/playlist.m3u8
 #EXTINF:-1,TV 4 Guanajuato
 http://iphone-streaming.ustream.tv/uhls/4157836/streams/live/iphone/playlist.m3u8#
-#EXTINF:-1,TrecevisiÛn Guatemala
+#EXTINF:-1,Trecevisi√≥n Guatemala
 http://72.46.226.61/live01/canal131/playlist.m3u8#
 
 
@@ -1801,33 +1804,33 @@ http://caracoltvlivehds-lh.akamaihd.net/i/emision_1@126280/index_300_av-b.m3u8#
 
 #EXTINF:-1,Caracol Internacional
 http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8?
-#EXTINF:-1,Mediterraneo TV EspaÒa
+#EXTINF:-1,Mediterraneo TV Espa√±a
 http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8#
-#EXTINF:-1,America TV Per˙
+#EXTINF:-1,America TV Per√∫
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#
 #EXTINF:-1,360TV
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1,TV Independencia Hidalgo MÈxico
+#EXTINF:-1,TV Independencia Hidalgo M√©xico
 http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
-#EXTINF:-1,BYU TV en espaÒol
+#EXTINF:-1,BYU TV en espa√±ol
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8#
 #EXTINF:-1,Canal 9 Bs As Argentina (HTTP)
 http://72.46.226.61/live01/canal91/playlist.m3u8#
-#EXTINF:-1,EcovisiÛn Zacatecas MÈxico
+#EXTINF:-1,Ecovisi√≥n Zacatecas M√©xico
 http://iphone-streaming.ustream.tv/ustreamVideo/17171318/streams/live/playlist.m3u8
 #EXTINF:-1,TeleUniverso 29 Rep. Dominicana
 http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
-#EXTINF:-1,MusavisiÛn Rep. Dominicana
+#EXTINF:-1,Musavisi√≥n Rep. Dominicana
 http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8#
 #EXTINF:-1,TV 4 Chile
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?
-#EXTINF:-1,RTP Asturias EspaÒa
+#EXTINF:-1,RTP Asturias Espa√±a
 http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8#
-#EXTINF:-1,Granada 7 TV EspaÒa
+#EXTINF:-1,Granada 7 TV Espa√±a
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8#
-#EXTINF:-1,TeleBaladona EspaÒa
+#EXTINF:-1,TeleBaladona Espa√±a
 rtmp://directe.tvbadalona.cat/live/myStream.sdp
-#EXTINF:-1,Mijas TV M·laga EspaÒa
+#EXTINF:-1,Mijas TV M√°laga Espa√±a
 http://teledifusion.tv:1935/mijastv/mijastvlive/.m3u8
 #EXTINF:-1,TeleVida
 http://evo.eltelon.com:443/live/televida/playlist.m3u8#
@@ -1845,9 +1848,9 @@ http://llnw.live.simplestream.com/coder9/coder.channels.channel8/hls/3/playlist.
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Gol TV USA
 http://ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8#
-#EXTINF:-1,CMD Per˙
+#EXTINF:-1,CMD Per√∫
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8#
-#EXTINF:-1,MarÌaVisiÛn
+#EXTINF:-1,Mar√≠aVisi√≥n
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8#
 #EXTINF:-1,Indagando TV
 http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#
@@ -1877,13 +1880,13 @@ http://72.46.226.61/live01/canal71/playlist.m3u8#
 http://72.46.226.61/live01/canal81/playlist.m3u8
 #EXTINF:-1,Canal 4 Nicaragua
 http://72.46.226.61/live01/canal41/playlist.m3u8
-#EXTINF:-1,RBC Per˙
+#EXTINF:-1,RBC Per√∫
 http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
-#EXTINF:-1,Quatro TV Arequipa Per˙
+#EXTINF:-1,Quatro TV Arequipa Per√∫
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8#
 #EXTINF:-1,ORBE 21 Argentina
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8#
-#EXTINF:-1,Telecreativa Lan˙s Argentina
+#EXTINF:-1,Telecreativa Lan√∫s Argentina
 http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8#
 #EXTINF:-1,Cable Hogar TV Rosario Argentinahttp://iphone-streaming.ustream
 
@@ -1911,114 +1914,114 @@ http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3
 
 
 
-#EXTINF:-1 group-title=ÓLATINOSÓ,HBOPlusLASD
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,HBOPlusLASD
 http://ift.tt/1IRFglK
-#EXTINF:-1 group-title=ÓLATINOSÓ,space
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,space
 http://ift.tt/1HljrGA
-#EXTINF:-1 group-title=ÓLATINOSÓ,FX
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FX
 http://ift.tt/1IRFglM
-#EXTINF:-1 group-title=ÓLATINOSÓ,SyFy
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,SyFy
 http://ift.tt/1HljpP5
-#EXTINF:-1 group-title=ÓLATINOSÓ,Mundo Fox
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Mundo Fox
 http://ift.tt/1IRFhGr
-#EXTINF:-1 group-title=ÓLATINOSÓ,max
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,max
 http://ift.tt/1HljrGC
-#EXTINF:-1 group-title=ÓLATINOSÓ,max up
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,max up
 http://ift.tt/1IRFhWF
-#EXTINF:-1 group-title=ÓLATINOSÓ,Max Prime
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Max Prime
 http://ift.tt/1HljpP7
-#EXTINF:-1 group-title=ÓLATINOSÓ,Max Prime 2
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Max Prime 2
 http://ift.tt/1IRFhWH
-#EXTINF:-1 group-title=ÓLATINOSÓ,FOX Family
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FOX Family
 http://ift.tt/1HljrGE
-#EXTINF:-1 group-title=ÓLATINOSÓ,Fox Cinema
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Fox Cinema
 http://ift.tt/1IRFjhf
-#EXTINF:-1 group-title=ÓLATINOSÓ,FOX Comedy
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FOX Comedy
 http://ift.tt/1HljpP9
-#EXTINF:-1 group-title=ÓLATINOSÓ,FOX ACTION
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FOX ACTION
 http://ift.tt/1IRFjhh
-#EXTINF:-1 group-title=ÓLATINOSÓ,HBO
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,HBO
 http://ift.tt/1HljrGJ
-#EXTINF:-1 group-title=ÓLATINOSÓ,HBO 2
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,HBO 2
 http://ift.tt/1IRFjhj
-#EXTINF:-1 group-title=ÓLATINOSÓ,HBO Signature
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,HBO Signature
 http://ift.tt/1HljpPb
-#EXTINF:-1 group-title=ÓLATINOSÓ,FOX 1
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FOX 1
 http://ift.tt/1IRFjhl
-#EXTINF:-1 group-title=ÓLATINOSÓ,FOX HD
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,FOX HD
 http://ift.tt/1HljpPd
-#EXTINF:-1 group-title=ÓLATINOSÓ,Film Zone
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Film Zone
 http://ift.tt/1IRFhWL
-#EXTINF:-1 group-title=ÓLATINOSÓ,Cine Latino
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Cine Latino
 http://ift.tt/1Hljq5v
-#EXTINF:-1 group-title=ÓLATINOSÓ,Golden HD
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Golden HD
 http://ift.tt/1IRFjhn
 
 
-#EXTINF:-1 group-title=ÓLATINOSÓ,unimas
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,unimas
 http://ift.tt/1HljrX2
-#EXTINF:-1 group-title=ÓLATINOSÓ,Pasiones
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Pasiones
 http://ift.tt/1IRFjhp
 
-#EXTINF:-1 group-title=ÓLATINOSÓ,RCN novelas
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,RCN novelas
 http://ift.tt/1Hljq5A
-#EXTINF:-1 group-title=ÓLATINOSÓ,Telenovelas
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Telenovelas
 http://ift.tt/1IRFjxL
-#EXTINF:-1 group-title=ÓLATINOSÓ,Telecentro
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Telecentro
 http://ift.tt/1HljrX4
-#EXTINF:-1 group-title=ÓLATINOSÓ,Caracol internacional
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Caracol internacional
 http://ift.tt/1IRFidb
-#EXTINF:-1 group-title=ÓLATINOSÓ,Tv Globo Internacional
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Tv Globo Internacional
 http://ift.tt/1Hljq5E
-#EXTINF:-1 group-title=ÓLATINOSÓ,Discovery
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Discovery
 http://ift.tt/1IRFjxP
-#EXTINF:-1 group-title=ÓLATINOSÓ,Discovery Theater
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Discovery Theater
 http://ift.tt/1Hljq5G
-#EXTINF:-1 group-title=ÓLATINOSÓ,Discovery World
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Discovery World
 http://ift.tt/1IRFjxR
-#EXTINF:-1 group-title=ÓLATINOSÓ,Discovery Home & Health
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Discovery Home & Health
 http://ift.tt/1HljrX7
-#EXTINF:-1 group-title=ÓLATINOSÓ,History 2
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,History 2
 http://ift.tt/1IRFidh
-#EXTINF:-1 group-title=ÓLATINOSÓ,History
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,History
 http://ift.tt/1Hljq5I
-#EXTINF:-1 group-title=ÓLATINOSÓ,Nat Geo
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Nat Geo
 http://ift.tt/1IRFjxU
-#EXTINF:-1 group-title=ÓLATINOSÓ,Animal Planet
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Animal Planet
 http://ift.tt/1HljrXb
-#EXTINF:-1 group-title=ÓLATINOSÓ,ESPN
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,ESPN
 http://ift.tt/1IRFidj
-#EXTINF:-1 group-title=ÓLATINOSÓ,ESPN 2
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,ESPN 2
 http://ift.tt/1HljqlX
-#EXTINF:-1 group-title=ÓLATINOSÓ,ESPN 3
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,ESPN 3
 http://ift.tt/1IRFjy0
-#EXTINF:-1 group-title=ÓLATINOSÓ,Fox Sports
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Fox Sports
 http://ift.tt/1HljrXf
-#EXTINF:-1 group-title=ÓLATINOSÓ,Fox Sports 2
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Fox Sports 2
 http://ift.tt/1HljrXh
-#EXTINF:-1 group-title=ÓLATINOSÓ,Fox Sports 3
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Fox Sports 3
 http://ift.tt/1Hljqm3
-#EXTINF:-1 group-title=ÓLATINOSÓ,Bein Sports
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Bein Sports
 http://ift.tt/1HljrXj
 
-#EXTINF:-1 group-title=ÓLATINOSÓ,F1
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,F1
 http://ift.tt/1IRFidp
-#EXTINF:-1 group-title=ÓLATINOSÓ,Planeta Futbol
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Planeta Futbol
 http://ift.tt/1HljsdB
-#EXTINF:-1 group-title=ÓLATINOSÓ,Planeta Futbol
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Planeta Futbol
 http://ift.tt/1IRFidr
-#EXTINF:-1 group-title=ÓLATINOSÓ,TDN
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,TDN
 http://ift.tt/1HljsdD
 
 
 
-#EXTINF:-1 group-title=ÓLATINOSÓ,Disney Channel
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Disney Channel
 http://ift.tt/1Hljqmb
-#EXTINF:-1 group-title=ÓLATINOSÓ,DisneyXD
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,DisneyXD
 http://ift.tt/1IRFjOs
-#EXTINF:-1 group-title=ÓLATINOSÓ,Disney Jr
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Disney Jr
 http://ift.tt/1HljsdH
-#EXTINF:-1 group-title=ÓLATINOSÓ,Nickelodeon
+#EXTINF:-1 group-title=√ÆLATINOS√Æ,Nickelodeon
 http://ift.tt/1IR
 
 https://raw.githubusercontent.com/luiscruz997/Luis-Cruz/master/Newcenturytv 
@@ -2064,7 +2067,7 @@ https://raw.githubusercontent.com/luiscruz997/Luis-Cruz/master/Newcenturytv
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìADULTS XXXî,[COLOR pink](( ADULT SECTION XXX ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúADULTS XXX‚Äù,[COLOR pink](( ADULT SECTION XXX ))[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -2252,7 +2255,7 @@ rtmp://edge2.everyon.tv/etv2sb/phd992
 rtmp://edge2.everyon.tv/etv2sb/phd993
 #EXTINF:-1,LiveSex Latinas
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,Olal·
+#EXTINF:-1,Olal√°
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
 #EXTINF:-1,Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
@@ -2270,7 +2273,7 @@ http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 ========================================================================================
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìTEST TEST TEST î,[COLOR red](( ADULT SECTION XXX ))[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúTEST TEST TEST ‚Äù,[COLOR red](( ADULT SECTION XXX ))[/COLOR]
 
 
 
